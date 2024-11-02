@@ -1,0 +1,11 @@
+{
+  "TEST_ID": {
+    "data": {
+      "name": "Test Station",
+      "id": "TEST_ID",
+      "state": "TS"
+    },
+    "lamportClock": 18,
+    "lastUpdateTime": 1730518414508
+  }
+}
