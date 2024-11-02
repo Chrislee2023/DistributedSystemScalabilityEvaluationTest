@@ -1,0 +1,7 @@
+id: station1
+name: Test Station
+state: Test State
+lat: -34.0
+lon: 138.6
+local_date_time: 202310051200
+air_temp: 25.5
